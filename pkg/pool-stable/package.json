@@ -58,7 +58,7 @@
     "lodash.zip": "^4.2.0",
     "mathjs": "^11.8.0",
     "mocha": "^10.1.0",
-    "nodemon": "^2.0.20",
+    "nodemon": "^3.0.0",
     "solhint": "^3.4.1"
   }
 }
